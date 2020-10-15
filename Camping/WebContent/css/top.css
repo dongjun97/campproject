@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.nav-item a {
+	cursor: pointer;
+}
+.nav-item .dept1 {
+	display: none;
+}
+.nav-item .sub_nav{ padding-left: 0; }
+
+#top_hover:hover{ 
+	border-bottom: 3px solid pink;
+	color: white;
+}
+
+li{
+	list-style-type: none;
+}
+
+div>ul>li>ul>li:hover{
+	border: 3px solid white;
+}

@@ -1,0 +1,37 @@
+@charset "UTF-8";
+* {
+		padding: 0; margin: 0;
+	}
+	
+	li {
+		list-style: none;
+	}
+	
+	a{
+		text-decoration: none;
+	}
+	
+	.banner{
+		width: 430px;
+		height: 195px;
+		margin: 30px;
+	}
+	
+	.banner li {
+		float: left;
+		width: 205px;
+		height: 195px;
+		box-shadow: 2px 2px 2px gray;
+		overflow: hidden;
+	}
+	
+	.banner li.bn01{
+		margin-right: 10px;
+	}
+	.banner li.bn03{
+		margin-top: 10px;
+	}
+	
+	.banner li img {
+		position: relative;
+	}

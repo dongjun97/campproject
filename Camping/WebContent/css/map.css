@@ -1,0 +1,13 @@
+@charset "UTF-8";
+#road_border{
+border-top: 2px dashed #086A87;
+margin-top: 10px;
+}
+
+h2 span{
+color:#0B4C5F;
+}
+
+#road_sub{
+color:#6E6E6E;
+}

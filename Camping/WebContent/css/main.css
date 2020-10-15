@@ -1,0 +1,52 @@
+@charset "UTF-8";
+a{
+color: black;
+text-decoration: none;
+}
+a:hover{
+color: white;
+text-decoration: none;
+}
+
+.mySlides {display:none;}
+
+table {
+	width: 100%;
+	align: center;
+}
+
+.div h2{
+	color: #113366;
+}
+
+.basicTable{
+	width:600px;
+	height:600px;
+}
+
+.boardTable{
+	text-align: center;
+	margin: auto;
+	display: inline-block;
+}
+
+.nqTable {
+	width: 1000px;
+	height: 50px;
+	text-align: center;
+	margin: auto;
+}
+
+.nqTable thead{
+	background-color:#F6D8CE;
+}
+
+.nqLink{
+	margin: auto;
+	background-color: #FAAC58;
+	color: white;
+    padding: 0 25px;
+}
+#right{
+	text-align: right;
+}

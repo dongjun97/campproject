@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.room_table table td {
+	padding: 13px 0;
+    border-bottom: 1px solid #bfbfbf;
+    color: #010101;
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+.room_table table td a{
+	display: inline-block;
+    width: 115px;
+    height: 44px;
+    border: 1px solid #000;
+    color: #010101;
+    font-size: 16px;
+    line-height: 44px;
+    text-align: center;
+    cursor: pointer;
+}
